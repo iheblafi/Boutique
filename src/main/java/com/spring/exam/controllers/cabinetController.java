@@ -14,7 +14,7 @@ import java.util.List;
 @Controller
 @RestController
 @RequestMapping("/cabinetController")
-public class cabinetController {
+public class fdhshshdshsdfh cabinetController {
     @Autowired
     private IcabinetService cabinetService;
 
